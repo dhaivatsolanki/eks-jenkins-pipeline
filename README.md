@@ -1,7 +1,4 @@
 # 🚀 Configuring Production-Ready EKS Clusters with Terraform and GitHub Actions
-[![Serverless](https://img.shields.io/badge/Serverless-%E2%9A%A1%EF%B8%8F-blueviolet)](https://www.serverless.com)
-
-
 Welcome to the repository for **Configuring Production-Ready EKS Clusters with Terraform and Automating with GitHub Actions**! This repository accompanies my blog post and demonstrates the practical steps to set up and automate an EKS cluster.
 
 ## 🌟 Overview
