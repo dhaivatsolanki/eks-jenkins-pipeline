@@ -13,7 +13,4 @@ Welcome to the repository for **Configuring Production-Ready EKS Clusters with T
 ## 🌟 Overview
 This project covers:
 - **Infrastructure as Code (IaC)**: Use Terraform to define and manage your EKS cluster.
-- **CI/CD Automation**: Leverage GitHub Actions to automate deployments.
-
-## 📄 License
-This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for details.
+- **CI/CD Automation**: Leverage GitHub Actions to automate deployments
